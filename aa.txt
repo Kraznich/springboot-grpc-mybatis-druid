@@ -2,9 +2,4 @@
 2222222222222222
 3333333333333333
 4444444444444444
-Dev update----
-<<<<<<< HEAD
-master update---
-=======
-Dev update----2
->>>>>>> dev
+master update
